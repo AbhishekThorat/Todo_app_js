@@ -4,6 +4,7 @@
   "description": "Practice JS with CodersInHoods",
   "main": "index.js",
   "scripts": {
+    "server": "json-server --watch db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
