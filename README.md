@@ -21,7 +21,7 @@ Todo app with pure JS and local server.
 ##### To run your app with server:
 
 1. Run ```npm install```
-2. Start your local server with ```json-server --watch db.json```
+2. Start your local server with ```npm run server```
 
 
 ### URL:

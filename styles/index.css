@@ -5,3 +5,7 @@
 body {
     font-size: 14px;
 }
+
+.lineThrough {
+    text-decoration: line-through;
+}
